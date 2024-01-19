@@ -115,7 +115,6 @@ private:
 };
 
 int main() {
-    // Example input: "1110111_1111" represents unary 7 + unary 4
     string input;
     cout << "Enter unary numbers separated by 0: ";
     cin >> input;
