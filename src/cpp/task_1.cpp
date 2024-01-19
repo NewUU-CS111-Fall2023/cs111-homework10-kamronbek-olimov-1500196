@@ -1,4 +1,4 @@
-class problem1 {
+class Problem1 {
 public:
     ListNode* mergeNodes(ListNode* head) {
         if(head == NULL) {
